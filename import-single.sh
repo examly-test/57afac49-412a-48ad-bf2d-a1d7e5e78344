@@ -1,0 +1,1 @@
+mongoimport --db pdmongo --collection user --file mongodump.json --jsonArray
